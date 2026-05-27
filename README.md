@@ -62,6 +62,6 @@ Based on the methodologies used, ensure the following libraries are installed to
 * `lightgbm`
 
 ## ✍️ Authors
-* Giovanni Carpenedo
-* Giulia Cavoletti
+* Giovanni Carpenedo @gcarpenedo
+* Giulia Cavoletti @giuliacavoletti
 * *February 2026*
