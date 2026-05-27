@@ -1,4 +1,4 @@
- Machine Learning Models for Credit Scoring
+# Machine Learning Models for Credit Scoring
 
 This repository contains the code and methodology for evaluating various machine learning models to predict credit default. In the financial sector, credit scoring algorithms assess the probability that a borrower will fail to meet their legal debt obligations. 
 
